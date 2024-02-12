@@ -1,2 +1,2 @@
 # LSTM_Stock_Price
-LSt
+LSTM model for predicting stoc price of Apple, Xiaomi and Samsung.
